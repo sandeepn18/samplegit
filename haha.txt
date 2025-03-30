@@ -1,3 +1,7 @@
 this i a a halala
 rtryryetfgdhf
+<<<<<<< HEAD
 i dont need merge conflict
+=======
+i need merge conflict
+>>>>>>> feature4
